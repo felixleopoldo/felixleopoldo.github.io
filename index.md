@@ -44,6 +44,6 @@ permalink: /
 
 <section class="talk-embed">
  <h2>Benchpress</h2>
-  <p>See the <a href="https://benchpressdocs.readthedocs.io/en/latest/" target="_blank" rel="noopener">Benchpress</a> tutorial I gave at the <a href="https://www.auai.org/uai2023/" target="_blank" rel="noopener">39th Conference on Uncertainty in Artificial Intelligence (UAI 2023)</a>, Pittsburgh, PA, July 31, 2023:</p>
+  <p><a href="https://benchpressdocs.readthedocs.io/en/latest/" target="_blank" rel="noopener">Benchpress</a> tutorial from the <a href="https://www.auai.org/uai2023/" target="_blank" rel="noopener">39th Conference on Uncertainty in Artificial Intelligence (UAI 2023)</a>, Pittsburgh, PA, July 31, 2023:</p>
   <iframe width="420" height="315" src="https://www.youtube.com/embed/tx3hIH3b9Hg" title="Benchpress tutorial at UAI 2023" frameborder="0" allowfullscreen></iframe>
 </section>
