@@ -1,0 +1,39 @@
+- id: T-8
+  authors: "Felix L Rios"
+  title: "Causal modeling of the GUSTO cohort study using directed acyclic graphs — A causal discovery approach"
+  venue: "at the Human Potential Transitional Research Programme (Research seminar at NUS), Singapore, July 10, 2024"
+
+- id: T-7
+  authors: "Felix L Rios"
+  title: "Benchpress: A scalable, platform-independent workflow to benchmark structure learning algorithms for graphical models"
+  venue: "at CMStatistics, London, 2021"
+  links:
+    - { label: video, url: "https://www.youtube.com/watch?v=tx3hIH3b9Hg" }
+
+- id: T-6
+  authors: "Felix L Rios"
+  title: "Structure learning using Benchpress"
+  venue: "at the 39th Conference on Uncertainty in Artificial Intelligence (UAI 2023), Pittsburgh, PA, July 31, 2023"
+  links:
+    - { label: pdf, url: "/Benchpress_Tutorial.pdf" }
+    - { label: video, url: "https://www.youtube.com/watch?v=tx3hIH3b9Hg" }
+
+- id: T-5
+  authors: "Jack Kuipers, Felix L Rios"
+  title: "Benchpress: A Snakemake workflow for running and benchmarking structure learning in graphical models"
+  venue: "at Causality Reading Group: Causal Discovery, Simons Institute, Berkeley, 2022"
+
+- id: T-4
+  authors: "Felix L Rios"
+  title: "Bayesian learning of weakly structural Markov laws using sequential Monte Carlo methods"
+  venue: "at CMStatistics, London, 2019"
+
+- id: T-3
+  authors: "Felix L Rios"
+  title: "The junction tree expanders and their application to structure learning in graphical models using particle Gibbs"
+  venue: "at the International Workshop on Perspectives on High-Dimensional Data Analysis, Uppsala University, 2019"
+
+- id: T-2
+  authors: "Felix L Rios"
+  title: "Bayesian structure learning in decomposable graphical models using sequential Monte Carlo methods"
+  venue: "at CLAPEM, Mérida, México, 2019"

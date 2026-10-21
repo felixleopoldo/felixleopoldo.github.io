@@ -1,0 +1,69 @@
+title: "Felix Rios"
+tagline: "Felix Rios' Homepage"
+description: >-
+  Felix Rios — Research Fellow at the NUS Centre for Sleep and Cognition.
+  Causal inference, Bayesian statistics, structure learning, and graphical models.
+
+author:
+  name: "Felix Rios"
+  position: "Research Fellow"
+  affiliation: "Centre for Sleep and Cognition, National University of Singapore (NUS)"
+  affiliation_url: "https://medicine.nus.edu.sg/csc/"
+  university: "National University of Singapore (NUS)"
+  university_url: "https://www.nus.edu.sg/"
+  phone: "(+65) 81910431"
+  email: "felix.leopoldo.rios@gmail.com"
+  photo: "/assets/images/IMG_784FC721EEEE-1.png"
+
+url: "https://felixleopoldo.github.io"
+baseurl: ""
+
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+nav:
+  - title: Home
+    url: /
+  - title: Publications
+    url: /csl_papers.html
+  - title: Talks
+    url: /talks.html
+  - title: Software
+    url: /software.html
+  - title: Bio
+    url: /stat_bio.html
+
+social:
+  - name: LinkedIn
+    label: "in/felixleopoldo"
+    url: "https://www.linkedin.com/in/felixleopoldo/"
+  - name: GitHub
+    label: "github.com/felixleopoldo"
+    url: "https://github.com/felixleopoldo/"
+  - name: Google Scholar
+    label: "Google Scholar profile"
+    url: "https://scholar.google.com/citations?user=rKHLmZsAAAAJ&hl=en"
+
+news:
+  - date: 2025-01-01
+    text: >-
+      Our paper <a href="https://raw.githubusercontent.com/mlresearch/v275/main/assets/rios25a/rios25a.pdf" target="_blank">Exact discovery is polynomial for certain sparse causal Bayesian networks</a> (PMLR, 2025) will have a poster presentation at <a href="https://www.cclear.cc/2025/" target="_blank">CLeaR 2025</a>.
+
+reviewer_for:
+  - name: "CLeaR (Causal Learning and Reasoning) 2025 conference"
+    url: "https://www.cclear.cc/2025/"
+  - name: "Scandinavian Journal of Statistics"
+    url: "https://onlinelibrary.wiley.com/journal/14679469"
+  - name: "The American Statistician"
+    url: "https://www.tandfonline.com/journals/utas20"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
