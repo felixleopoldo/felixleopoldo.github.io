@@ -1,0 +1,46 @@
+- id: R-6
+  authors: "Felix L Rios, Giusi Moffa, Jack Kuipers"
+  title: "Exact discovery is polynomial for certain sparse causal Bayesian networks"
+  venue: "In Proceedings of Machine Learning Research, vol 275:631–658, 2025"
+  links:
+    - { label: pdf, url: "https://raw.githubusercontent.com/mlresearch/v275/main/assets/rios25a/rios25a.pdf" }
+    - { label: code, url: "https://github.com/felixleopoldo/dncDagger" }
+
+- id: R-5
+  authors: "Felix L Rios, Giusi Moffa, Jack Kuipers"
+  title: "Benchpress: a versatile platform for structure learning in causal and probabilistic graphical models"
+  venue: "In Journal of Statistical Software, 114(12):1–43, 2025"
+  links:
+    - { label: pdf, url: "https://www.jstatsoft.org/article/view/v114i12" }
+    - { label: code, url: "https://github.com/felixleopoldo/benchpress" }
+
+- id: R-4
+  authors: "Tatjana Pavlenko, Felix L Rios"
+  title: "Graphical posterior predictive classification: Bayesian model averaging with particle Gibbs"
+  venue: "In Theory of Probability and Mathematical Statistics, Vol. 109, 81–99, December 2023"
+  links:
+    - { label: pdf, url: "https://www.ams.org/journals/tpms/2023-109-00/S0094-9000-2023-01198-0/home.html" }
+    - { label: code, url: "https://github.com/felixleopoldo/trilearn" }
+
+- id: R-3
+  authors: "Jimmy Olsson, Tatjana Pavlenko, Felix L Rios"
+  title: "Sequential sampling of junction trees for decomposable graphs"
+  venue: "In Statistics and Computing, Vol. 32, No. 80, September 2022"
+  links:
+    - { label: pdf, url: "https://link.springer.com/article/10.1007/s11222-022-10113-2" }
+    - { label: code, url: "https://github.com/felixleopoldo/trilearn" }
+
+- id: R-2
+  authors: "Wangzhong Mu, Moshiour Rahaman, Felix L Rios, Joakim Odqvist, Peter Hedström"
+  title: "Predicting strain-induced martensite in austenitic steels by combining physical modelling and machine learning"
+  venue: "In Materials & Design, Vol. 197, 109199, January 2021"
+  links:
+    - { label: pdf, url: "https://www.sciencedirect.com/science/article/pii/S0264127520307346" }
+
+- id: R-1
+  authors: "Jimmy Olsson, Tatjana Pavlenko, Felix L Rios"
+  title: "Bayesian learning of weakly structural Markov graph laws using sequential Monte Carlo methods"
+  venue: "In Electronic Journal of Statistics, Vol. 13, No. 2, 2865–2897, January 2019"
+  links:
+    - { label: pdf, url: "https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-13/issue-2/Bayesian-learning-of-weakly-structural-Markov-graph-laws-using-sequential/10.1214/19-EJS1585.full" }
+    - { label: code, url: "https://github.com/felixleopoldo/trilearn" }

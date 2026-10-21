@@ -1,0 +1,29 @@
+- id: S-4
+  title: "dncDagger"
+  description: "A C++ program interfaced in R for so-called exact learning of DAG models (Bayesian networks), showing that exact discovery is polynomial for certain sparse DAGs (e.g. matchings)."
+  repo: felixleopoldo/dncDagger
+  links:
+    - { label: code, url: "https://github.com/felixleopoldo/dncDagger" }
+
+- id: S-3
+  title: "CStrees"
+  description: "A Python package for context-specific graphical models."
+  repo: felixleopoldo/cstrees
+  links:
+    - { label: docs, url: "https://cstrees.readthedocs.io/en/latest/" }
+    - { label: code, url: "https://github.com/felixleopoldo/cstrees" }
+
+- id: S-2
+  title: "Benchpress"
+  description: "Benchpress started out from an idea to solve the benchmarking problem for causal discovery and structure learning once and for all. It has grown into a platform that also enables practitioners and researchers to access state-of-the-art open source algorithms for analysis without any coding. It requires minimal installation and scales seamlessly thanks to Snakemake."
+  repo: felixleopoldo/benchpress
+  links:
+    - { label: docs, url: "https://benchpressdocs.readthedocs.io/en/latest/" }
+    - { label: code, url: "https://github.com/felixleopoldo/benchpress" }
+
+- id: S-1
+  title: "trilearn"
+  description: "A Python package for decomposable graphical models including structure learning and classification."
+  repo: felixleopoldo/trilearn
+  links:
+    - { label: code, url: "https://github.com/felixleopoldo/trilearn" }

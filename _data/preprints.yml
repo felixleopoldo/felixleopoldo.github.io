@@ -1,0 +1,7 @@
+- id: P-2
+  authors: "Felix L Rios, Alex Markham, Liam Solus"
+  title: "Scalable Structure Learning for Sparse Context-Specific Causal Systems"
+  venue: "In arXiv, January 2024"
+  links:
+    - { label: pdf, url: "https://arxiv.org/abs/2402.07762" }
+    - { label: code, url: "https://github.com/felixleopoldo/cslearn" }
