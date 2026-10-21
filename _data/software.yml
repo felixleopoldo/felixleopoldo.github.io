@@ -10,7 +10,7 @@
   description: "A Python package for context-specific graphical models."
   repo: felixleopoldo/cslearn
   links:
-    - { label: docs, url: "https://cstrees.readthedocs.io/en/latest/" }
+    - { label: docs, url: "https://cslearn.readthedocs.io/en/latest/" }
     - { label: code, url: "https://github.com/felixleopoldo/cslearn" }
 
 - id: S-2
