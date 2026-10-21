@@ -9,9 +9,11 @@ author:
   position: "Research Fellow"
   affiliation: "Centre for Sleep and Cognition, National University of Singapore (NUS)"
   affiliation_url: "https://medicine.nus.edu.sg/csc/"
+  university: "National University of Singapore (NUS)"
+  university_url: "https://www.nus.edu.sg/"
   phone: "(+65) 81910431"
   email: "felix.leopoldo.rios@gmail.com"
-  photo: "/assets/images/flrios.jpeg"
+  photo: "/assets/images/IMG_2206.jpg"
 
 url: "https://felixleopoldo.github.io"
 baseurl: ""

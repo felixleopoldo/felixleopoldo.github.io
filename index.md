@@ -9,12 +9,12 @@ permalink: /
 </section>
 
 <section class="current-position">
-  <h2>Current Position</h2>
+  <h2>Current position</h2>
   <p>I am currently a <strong>{{ site.author.position }}</strong> at the <a href="{{ site.author.affiliation_url }}" target="_blank" rel="noopener">{{ site.author.affiliation }}</a>.</p>
 </section>
 
 <section class="research-interests">
-  <h2>Research Interests</h2>
+  <h2>Research interests</h2>
   <p>My statistical research is primarily centered around Bayesian statistics, Monte Carlo methods, graphical models, and causal discovery.
   Recently I have gained an interest in missing data problems.
   Apart from that, I am constantly improving the causal discovery (structure learning) platform <a href="https://benchpressdocs.readthedocs.io/en/latest/" target="_blank" rel="noopener">Benchpress</a>.</p>
@@ -33,7 +33,7 @@ permalink: /
 
 {% if site.reviewer_for %}
 <section class="reviewer-for">
-  <h2>Reviewer For</h2>
+  <h2>Reviewer for</h2>
   <ul>
     {% for item in site.reviewer_for %}
       <li><a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.name }}</a></li>
@@ -43,7 +43,7 @@ permalink: /
 {% endif %}
 
 <section class="talk-embed">
-  <h2>Selected Video</h2>
+ <h2>Selected video</h2>
   <p>See the <a href="https://benchpressdocs.readthedocs.io/en/latest/" target="_blank" rel="noopener">Benchpress</a> tutorial I gave at the <a href="https://www.auai.org/uai2023/" target="_blank" rel="noopener">39th Conference on Uncertainty in Artificial Intelligence (UAI 2023)</a>, Pittsburgh, PA, July 31, 2023:</p>
   <iframe width="420" height="315" src="https://www.youtube.com/embed/tx3hIH3b9Hg" title="Benchpress tutorial at UAI 2023" frameborder="0" allowfullscreen></iframe>
 </section>
