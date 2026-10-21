@@ -8,10 +8,10 @@
 - id: S-3
   title: "CStrees"
   description: "A Python package for context-specific graphical models."
-  repo: felixleopoldo/cstrees
+  repo: felixleopoldo/cslearn
   links:
     - { label: docs, url: "https://cstrees.readthedocs.io/en/latest/" }
-    - { label: code, url: "https://github.com/felixleopoldo/cstrees" }
+    - { label: code, url: "https://github.com/felixleopoldo/cslearn" }
 
 - id: S-2
   title: "Benchpress"
